@@ -1,0 +1,15 @@
+[submodule "orders-ms"]
+	path = orders-ms
+	url = https://github.com/argalarza/orders-microservice.git
+[submodule "pruducts-ms"]
+	path = pruducts-ms
+	url = https://github.com/argalarza/products-microservice.git
+[submodule "payments-ms"]
+	path = payments-ms
+	url = https://github.com/argalarza/payments-ms.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = https://github.com/argalarza/auth-ms.git
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/argalarza/client-gateway.git
