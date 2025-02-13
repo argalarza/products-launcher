@@ -2,7 +2,7 @@
 	path = orders-ms
 	url = https://github.com/argalarza/orders-microservice.git
 [submodule "pruducts-ms"]
-	path = pruducts-ms
+	path = products-ms
 	url = https://github.com/argalarza/products-microservice.git
 [submodule "payments-ms"]
 	path = payments-ms
